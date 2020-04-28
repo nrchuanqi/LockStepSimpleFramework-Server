@@ -1,0 +1,17 @@
+/Library
+/Logs
+/LXGameData
+/obj
+*.csproj
+*.sln
+*.suo
+/.vs
+/Temp
+*.cd
+/AssetBundles
+/RealeaseBuild
+/Assets/StreamingAssets/AssetBundles
+/Assets/StreamingAssets/ChineseMp4
+/Assets/StreamingAssets/MathMp4
+/Build
+
